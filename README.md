@@ -2,7 +2,7 @@
 
 ### I'm Songmi Oh (오송미)
 
-### 🕹 Main Tech Stack
+### 🕹 Main Tech Stack!
 
 <img src="https://img.shields.io/badge/Swift-FA7343??style=flat&logo=Swift&logoColor=white"/> at <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
 
