@@ -1,4 +1,4 @@
-### Hi Guys! 👋
+### Hi Guys!! 👋
 
 ### I'm Songmi Oh (오송미)
 
