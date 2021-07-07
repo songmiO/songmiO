@@ -1,4 +1,6 @@
-### Hi Guys!!! 👋
+
+
+### Hi Guys!!! 👋 &nbsp; <img src="https://img.shields.io/github/followers/songmiO?style=social">
 
 ### I'm Songmi Oh (오송미)
 
