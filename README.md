@@ -19,4 +19,4 @@ I'm Songmi Oh (오송미)
 <img src="https://img.shields.io/badge/AdobeLightroomClassic-31A8FF?style=flat&logo=AdobeLightroomClassic&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmiO&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmiO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
