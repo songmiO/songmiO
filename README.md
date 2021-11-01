@@ -17,9 +17,5 @@
 ### 🛠 &nbsp; AR Tech Stack
 
 <img src="https://i.ibb.co/vH73pmp/sparkAR.png" alt="sparkAR" border="0" width="70" heigth="70">
-
-### 🎨 &nbsp; Design Stack 
-
-<img src="https://i.ibb.co/SxN18R3/design.png" alt="design" border="0" width="200" heigth="200">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmiO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
