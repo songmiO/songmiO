@@ -4,7 +4,7 @@
 ## I'm Songmi Oh ( 오송미 )
 
 ### Software Developer ( Front-End & iOS )
-&nbsp; 👩🏻‍💻 타고난 재능 보다 열정과 끈기가 강한 개발자
+&nbsp; 👩🏻‍💻 Developers who are more passionate and patient than their natural talents.
   
 ### 🛠 &nbsp; Main Tech Stack 
 <img src="https://i.ibb.co/9gKS1PB/logo.png" alt="logo" border="0" width="200" heigth="200">
