@@ -14,8 +14,5 @@
 
 <img src="https://i.ibb.co/SKLn1ND/ios.png" alt="ios" border="0" width="100" heigth="100">
 
-### 🛠 &nbsp; AR Tech Stack
-
-<img src="https://i.ibb.co/vH73pmp/sparkAR.png" alt="sparkAR" border="0" width="70" heigth="70">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmiO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
