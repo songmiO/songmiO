@@ -9,9 +9,6 @@
 ### 🛠 &nbsp; Main Tech Stack 
 <img src="https://i.ibb.co/9gKS1PB/logo.png" alt="logo" border="0" width="200" heigth="200">
 
-
-### 🛠 &nbsp; Sub Tech Stack
-
 <img src="https://i.ibb.co/SKLn1ND/ios.png" alt="ios" border="0" width="100" heigth="100">
 
   
