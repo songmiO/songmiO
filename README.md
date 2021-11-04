@@ -7,8 +7,11 @@
 &nbsp; 👩🏻‍💻 Developers who are more passionate and patient than their natural talents.
   
 ### 🛠 &nbsp; Langes and Tools
-<img src="https://i.ibb.co/9gKS1PB/logo.png" alt="logo" border="0" width="200" heigth="200"> 
-<img src="https://i.ibb.co/SKLn1ND/ios.png" alt="ios" border="0" width="100" heigth="100">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmiO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
