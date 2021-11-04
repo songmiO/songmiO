@@ -6,7 +6,7 @@
 ### Software Developer ( Front-End & iOS )
 &nbsp; 👩🏻‍💻 Developers who are more passionate and patient than their natural talents.
   
-### 🛠 &nbsp; Tech Stack 
+### 🛠 &nbsp; Langes and Tools
 <img src="https://i.ibb.co/9gKS1PB/logo.png" alt="logo" border="0" width="200" heigth="200"> 
 <img src="https://i.ibb.co/SKLn1ND/ios.png" alt="ios" border="0" width="100" heigth="100">
 
