@@ -10,6 +10,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="50" height="50"/></a>
+<a href="https://styled-components.com/" target="_blank"> <img src="https://styled-components.com/icon.png" width="50" height="25"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50" height="50"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" width="50" height="50"/></a>
