@@ -4,6 +4,10 @@
 ## I'm Songmi Oh ( 오송미 )
 
 ### Software Developer ( Front-End & iOS )
+  
+&nbsp; 👩🏻‍💻  &nbsp; Likes the hardware of the machine. <br>
+&nbsp; 👩🏻‍💻  &nbsp; Likes the hardware of the machine. 
+I knew the importance of software and wanted to develop my own software, so I started developing it. <br>
 &nbsp; 👩🏻‍💻  &nbsp; Developers who are more passionate and patient than their natural talents.
   
 ### 🛠 &nbsp; Langes and Tools
