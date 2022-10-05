@@ -2,7 +2,7 @@
   
 ## Hi ! 👋 &nbsp; I'm Songmi Oh ( 오송미 )
 
-### Software Developer ( Front-End & iOS )
+### Software Developer ( Front-End )
   
 &nbsp; 👩🏻‍💻  &nbsp; Likes the hardware of the machine. <br>
 &nbsp; 👩🏻‍💻  &nbsp; I knew the importance of software and wanted to develop my own software, so I started developing it. <br>
