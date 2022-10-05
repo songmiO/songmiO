@@ -8,6 +8,7 @@
 &nbsp; 👩🏻‍💻  &nbsp; I knew the importance of software and wanted to develop my own software, so I started developing it. <br>
 &nbsp; 👩🏻‍💻  &nbsp; I'm a developer of Front-End web. <br>
 &nbsp; 👩🏻‍💻  &nbsp; Developers who are more passionate and patient than their natural talents.
+&nbsp; 👩🏻‍💻  &nbsp; I show you growing up.
   
 ### 🛠 &nbsp; Langes and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
