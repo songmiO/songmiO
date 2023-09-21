@@ -15,7 +15,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> &nbsp; <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50" height="50"/></a> &nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> &nbsp;
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" width="50" height="50"/></a> &nbsp;
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96.png" width="50" height="50"/></a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songmiO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
